@@ -1,13 +1,13 @@
-# tslowkeytuff
+# Offer Finder
 
 Find today's live **Zomato delivery offers** near you — restaurants sorted by rating, distance and delivery time, filtered by the exact offers you want, with coupon codes surfaced. Android app.
 
 ## Download
 
-**➡️ [Download the latest APK](https://github.com/prasannaa09/tslowkeytuff-app/releases/latest)**  (Android 8.0+)
+**➡️ [Download the latest APK](https://github.com/prasannaa09/offer-finder-app/releases/latest)**  (Android 8.0+)
 
 ## Install
-1. Download `tslowkeytuff-<version>.apk` from the link above.
+1. Download `offer-finder-<version>.apk` from the link above.
 2. Tap the file. If Android asks, allow installing from this source.
 3. If Google Play Protect warns, tap **More details -> Install anyway**. On stricter phones (MIUI/Xiaomi, some Samsung) you may need to briefly turn off Play Protect scanning (Play Store -> profile -> Play Protect -> Settings), install, then turn it back on.
 4. Open the app, log in with your Zomato phone number + OTP, pick a saved address, and tap **Find offers**.
